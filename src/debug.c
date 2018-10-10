@@ -31,6 +31,10 @@
 #include <syslog.h>
 #endif
 
+#ifdef ANDROID
+#include <android/log.h>
+#endif
+
 #include "strlcpycat.h"
 
 #undef LOG_TO_STDERR
@@ -41,9 +45,26 @@
 #define LOG_STREAM stdout
 #endif
 
+#ifdef ANDROID
+#define TAG "CCID"
+int printf(const char *format, ...)
+{
+	va_list ap;
+	va_start(ap, format);
+	return __android_log_vprint(ANDROID_LOG_DEBUG, TAG, format, ap);
+}
+
+int fprintf(FILE *fd, const char *format, ...)
+{
+	va_list ap;
+	va_start(ap, format);
+	return __android_log_vprint(ANDROID_LOG_DEBUG, TAG, format, ap);
+}
+#endif
+
 void log_msg(const int priority, const char *fmt, ...)
 {
-	char debug_buffer[3 * 80]; /* up to 3 lines of 80 characters */
+	char debug_buffer[4 * 80]; /* up to 4 lines of 80 characters */
 	va_list argptr;
 	static struct timeval last_time = { 0, 0 };
 	struct timeval new_time = { 0, 0 };
