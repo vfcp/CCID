@@ -175,6 +175,7 @@
 		<string>0x072F</string>
 		<string>0x072F</string>
 		<string>0x072F</string>
+		<string>0x072F</string>
 		<string>0x2021</string>
 		<string>0x2021</string>
 		<string>0x2021</string>
@@ -595,6 +596,7 @@
 		<string>0x1204</string>
 		<string>0x221A</string>
 		<string>0x223B</string>
+		<string>0x223E</string>
 		<string>0x223F</string>
 		<string>0x8201</string>
 		<string>0x8202</string>
@@ -1023,6 +1025,7 @@
 		<string>ACS ACR101 ICC Reader</string>
 		<string>ACS ACR1251 Dual Reader</string>
 		<string>ACS ACR1252 Dual Reader</string>
+		<string>ACS ACR1252 Reader</string>
 		<string>ACS ACR1255U-J1</string>
 		<string>ACS APG8201 PINhandy 1</string>
 		<string>ACS APG8201 USB Reader</string>
