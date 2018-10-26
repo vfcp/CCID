@@ -352,6 +352,7 @@
 		<string>0x2406</string>
 		<string>0x03EB</string>
 		<string>0x03EB</string>
+		<string>0x2FD2</string>
 		<string>0x1FC9</string>
 		<string>0x1403</string>
 		<string>0x2406</string>
@@ -781,6 +782,7 @@
 		<string>0x6200</string>
 		<string>0x9308</string>
 		<string>0x9324</string>
+		<string>0x0100</string>
 		<string>0x0102</string>
 		<string>0x7506</string>
 		<string>0x6300</string>
@@ -1210,6 +1212,7 @@
 		<string>IID AT90S064 CCID READER</string>
 		<string>IIT E.Key Crystal-1</string>
 		<string>IIT E.Key Almaz-1C</string>
+		<string>InfoCert WirelessKey</string>
 		<string>InfoThink IT-102MU Reader</string>
 		<string>InfoThink IT-500U Reader</string>
 		<string>Inside Secure VaultIC 420 Smart Object</string>
