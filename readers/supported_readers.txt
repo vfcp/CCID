@@ -1,6 +1,6 @@
 #
 # List of readers supported by the CCID driver
-# Generated: 2018-10-24
+# Generated: 2019-01-17
 #
 # DO NOT EDIT BY HAND
 
@@ -166,6 +166,9 @@
 0x24DC:0x0501:Aladdin R.D. JaCarta U2F (JC602)
 0x24DC:0x100F:Aladdin R.D. JaCarta Flash
 
+# Alcor Link
+0x2CE3:0x9563:Alcor Link AK9563
+
 # Alcor Micro
 0x058F:0x9522:Alcor Micro AU9522
 
@@ -216,7 +219,10 @@
 0x25DD:0x2351:Bit4id Digital DNA Key
 0x25DD:0x2361:Bit4id Digital-DNA Key BT
 0x25DD:0x2362:Bit4id Digital-DNA Key
+0x25DD:0x2371:Bit4id TokenME EVO v2
 0x25DD:0x3111:Bit4id miniLector
+0x25DD:0x3211:Bit4id miniLector AIR EVO
+0x25DD:0xB001:Bit4id miniLector Blue
 
 # Bluink Ltd.
 0x2ABE:0x1003:Bluink Ltd. Bluink CCID
@@ -231,6 +237,9 @@
 0x0A5C:0x5833:Broadcom Corp 5880
 0x0A5C:0x5834:Broadcom Corp 5880
 0x0A5C:0x5842:Broadcom Corp 58200
+0x0A5C:0x5843:Broadcom Corp 58200
+0x0A5C:0x5844:Broadcom Corp 58200
+0x0A5C:0x5845:Broadcom Corp 58200
 
 # C3PO
 0x0783:0x0007:C3PO TLTC2USB
@@ -246,6 +255,7 @@
 
 # Certgate GmbH
 0x2DFF:0xB601:Certgate GmbH AirID 2 USB
+0x2DFF:0xB602:Certgate GmbH ONEKEY ID 2 USB
 
 # charismathics
 0x19E7:0x0002:charismathics plug'n'crypt CCID token
@@ -423,6 +433,7 @@
 0x04E6:0x581A:Identiv uTrust 3522 embd SE RFID Token
 0x04E6:0x581B:Identiv uTrust 2910 R Taglio SC Reader
 0x04E6:0x581C:Identiv SCR35xx USB Smart Card Reader
+0x04E6:0x581D:Identiv SCR3500 C Contact Reader
 
 # Identive
 0x04E6:0x5710:Identive CLOUD 2700 F Smart Card Reader
