@@ -192,6 +192,8 @@
 		<string>0x24DC</string>
 		<string>0x24DC</string>
 		<string>0x24DC</string>
+		<string>0x24DC</string>
+		<string>0x2CE3</string>
 		<string>0x058F</string>
 		<string>0x0483</string>
 		<string>0x2406</string>
@@ -224,8 +226,14 @@
 		<string>0x25DD</string>
 		<string>0x25DD</string>
 		<string>0x25DD</string>
+		<string>0x25DD</string>
+		<string>0x25DD</string>
+		<string>0x25DD</string>
 		<string>0x2ABE</string>
 		<string>0x1B0E</string>
+		<string>0x0A5C</string>
+		<string>0x0A5C</string>
+		<string>0x0A5C</string>
 		<string>0x0A5C</string>
 		<string>0x0A5C</string>
 		<string>0x0A5C</string>
@@ -238,6 +246,7 @@
 		<string>0x0783</string>
 		<string>0x0CA6</string>
 		<string>0x8829</string>
+		<string>0x2DFF</string>
 		<string>0x2DFF</string>
 		<string>0x19E7</string>
 		<string>0x046A</string>
@@ -328,6 +337,7 @@
 		<string>0x04A4</string>
 		<string>0x04A4</string>
 		<string>0x0B81</string>
+		<string>0x04E6</string>
 		<string>0x04E6</string>
 		<string>0x04E6</string>
 		<string>0x04E6</string>
@@ -620,8 +630,10 @@
 		<string>0x0201</string>
 		<string>0x0401</string>
 		<string>0x0402</string>
+		<string>0x0428</string>
 		<string>0x0501</string>
 		<string>0x100F</string>
+		<string>0x9563</string>
 		<string>0x9522</string>
 		<string>0xACD1</string>
 		<string>0x5003</string>
@@ -653,7 +665,10 @@
 		<string>0x2351</string>
 		<string>0x2361</string>
 		<string>0x2362</string>
+		<string>0x2371</string>
 		<string>0x3111</string>
+		<string>0x3211</string>
+		<string>0xB001</string>
 		<string>0x1003</string>
 		<string>0x1079</string>
 		<string>0x5802</string>
@@ -662,6 +677,9 @@
 		<string>0x5833</string>
 		<string>0x5834</string>
 		<string>0x5842</string>
+		<string>0x5843</string>
+		<string>0x5844</string>
+		<string>0x5845</string>
 		<string>0x0007</string>
 		<string>0x0009</string>
 		<string>0x0010</string>
@@ -669,6 +687,7 @@
 		<string>0x00A0</string>
 		<string>0xCCB2</string>
 		<string>0xB601</string>
+		<string>0xB602</string>
 		<string>0x0002</string>
 		<string>0x0090</string>
 		<string>0x0092</string>
@@ -772,6 +791,7 @@
 		<string>0x581A</string>
 		<string>0x581B</string>
 		<string>0x581C</string>
+		<string>0x581D</string>
 		<string>0x5710</string>
 		<string>0x5720</string>
 		<string>0x5721</string>
@@ -1050,8 +1070,10 @@
 		<string>Aladdin R.D. JCR-770</string>
 		<string>Aladdin R.D. JC-WebPass (JC600)</string>
 		<string>Aladdin R.D. JaCarta</string>
+		<string>Aladdin R.D. JaCarta3</string>
 		<string>Aladdin R.D. JaCarta U2F (JC602)</string>
 		<string>Aladdin R.D. JaCarta Flash</string>
+		<string>Alcor Link AK9563</string>
 		<string>Alcor Micro AU9522</string>
 		<string>ANCUD CCID USB Reader &amp; RNG</string>
 		<string>appidkey GmbH ID50 -USB</string>
@@ -1083,7 +1105,10 @@
 		<string>Bit4id Digital DNA Key</string>
 		<string>Bit4id Digital-DNA Key BT</string>
 		<string>Bit4id Digital-DNA Key</string>
+		<string>Bit4id TokenME EVO v2</string>
 		<string>Bit4id miniLector</string>
+		<string>Bit4id miniLector AIR EVO</string>
+		<string>Bit4id miniLector Blue</string>
 		<string>Bluink Ltd. Bluink CCID</string>
 		<string>BLUTRONICS BLUDRIVE II CCID</string>
 		<string>Broadcom Corp 5880</string>
@@ -1092,6 +1117,9 @@
 		<string>Broadcom Corp 5880</string>
 		<string>Broadcom Corp 5880</string>
 		<string>Broadcom Corp 58200</string>
+		<string>Broadcom Corp 58200</string>
+		<string>Broadcom Corp 58200</string>
+		<string>Broadcom Corp 58200</string>
 		<string>C3PO TLTC2USB</string>
 		<string>C3PO KBR36</string>
 		<string>C3PO LTC32</string>
@@ -1099,6 +1127,7 @@
 		<string>CASTLES EZCCID Smart Card Reader</string>
 		<string>CCB eSafeLD</string>
 		<string>Certgate GmbH AirID 2 USB</string>
+		<string>Certgate GmbH ONEKEY ID 2 USB</string>
 		<string>charismathics plug'n'crypt CCID token</string>
 		<string>Cherry Smart Card Reader USB</string>
 		<string>Cherry TC 1300</string>
@@ -1202,6 +1231,7 @@
 		<string>Identiv uTrust 3522 embd SE RFID Token</string>
 		<string>Identiv uTrust 2910 R Taglio SC Reader</string>
 		<string>Identiv SCR35xx USB Smart Card Reader</string>
+		<string>Identiv SCR3500 C Contact Reader</string>
 		<string>Identive CLOUD 2700 F Smart Card Reader</string>
 		<string>Identive Identive CLOUD 4500 F Dual Interface Reader</string>
 		<string>Identive Identive CLOUD 4510 F Contactless + SAM Reader</string>
