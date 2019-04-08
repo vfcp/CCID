@@ -1,6 +1,6 @@
 #
 # List of readers supported by the CCID driver
-# Generated: 2019-03-12
+# Generated: 2019-04-02
 #
 # DO NOT EDIT BY HAND
 
@@ -163,7 +163,7 @@
 0x24DC:0x0201:Aladdin R.D. JCR-770
 0x24DC:0x0401:Aladdin R.D. JC-WebPass (JC600)
 0x24DC:0x0402:Aladdin R.D. JaCarta
-0x24DC:0x0428:Aladdin R.D. JaCarta3
+0x24DC:0x0428:Aladdin R.D. JaCartaReader
 0x24DC:0x0501:Aladdin R.D. JaCarta U2F (JC602)
 0x24DC:0x100F:Aladdin R.D. JaCarta Flash
 
@@ -201,6 +201,7 @@
 # Avtor
 0x15CF:0x0019:Avtor SecureToken
 0x15CF:0x001D:Avtor SC Reader 371
+0x15CF:0x0020:Avtor SecureToken
 
 # Axalto
 0x04E6:0x511C:Axalto Reflex USB v3
